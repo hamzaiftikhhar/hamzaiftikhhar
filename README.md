@@ -6,12 +6,9 @@ I'm Hamza Iftikhar, a passionate individual with interests spanning across vario
 
 💞️ I am eager to collaborate on MERN stack projects and contribute to innovative solutions that drive meaningful impact.
 
-📫 You can reach out to me through the following channels:
-
-Email: alihamxa366@gmail.com
-LinkedIn: (https://www.linkedin.com/in/ali-hamza-a375bb265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-Instagram: https://www.instagram.com/hamzaiftikhhar?igsh=bDNkZjQ1eWQ1YmRq&utm_source=qr
+📫 You can reach out to me through the Link Tree:
+https://linktr.ee/hamzaiftikhhar
 <!---
 hamzaiftikhhar/hamzaiftikhhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->](https://linktr.ee/hamzaiftikhhar)https://linktr.ee/hamzaiftikhhar
