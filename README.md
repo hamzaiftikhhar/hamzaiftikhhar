@@ -1,6 +1,6 @@
 👋 Hello,
 
-I'm Hamza Iftikhar, a passionate individual with interests spanning across various domains including React Native, Mobile App Development, Artificial Intelligence, Machine Learning, JavaScript, Node.js, MySQL, Express.js, Bootstrap, CSS, and HTML.
+I'm Hamza Iftikhar, a passionate individual with interests spanning across various domains including React,React Native, Mobile App Development, Artificial Intelligence, Machine Learning, JavaScript, Node.js, MySQL,Postgresql, Express.js, Bootstrap.
 
 🌱 Currently, I am deeply engrossed in expanding my expertise in React.js, React Native, and AI technologies.
 
