@@ -3,16 +3,29 @@
 
   # Hello World! I'm Hamza Iftikhar 👋
 </div>
+# 🙋‍♂️About Me
 
-# 💫 About Me:
-🎓 Final year Computer Science student at COMSATS University\
-🌱 Currently focusing on Full Stack Development and AI/ML\
-💼 Open to freelance and collaboration opportunities\
-💬 Ask me about MERN Stack Development\
-🚀 Building scalable web applications and AI solutions
+I'm a passionate Full Stack Developer and final-year Computer Science student at COMSATS University, specializing in modern web technologies and AI solutions. With a strong foundation in the MERN stack and a deep interest in artificial intelligence, I focus on building scalable, user-centric applications.
+
+### What I Do
+
+💻 Developing full-stack web applications with modern technologies\
+📱 Creating cross-platform mobile solutions with React Native\
+✍️ Writing technical articles about software development\
+🤖 Exploring AI/ML technologies and their practical applications\
+🌟 Contributing to open-source projects
+
+### Current Focus
+
+- Advancing my expertise in AI/ML technologies
+- Building scalable web applications with the MERN stack
+- Sharing knowledge through technical writing
+- Exploring cloud-native development solutions
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaiftikhhar) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzaiftikhhar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hamzaiftikhhar)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:alihamxa366@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/hamzaiftikhhar)
 
