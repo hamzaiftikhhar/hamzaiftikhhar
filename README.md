@@ -1,26 +1,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Developer Illustration" width="150" />
 
-  # Hello World! I'm Hamza Iftikhar 👋
+   Hello World! I'm Hamza Iftikhar 👋
 </div>
-# 🙋‍♂️About Me
-
-I'm a passionate Full Stack Developer and final-year Computer Science student at COMSATS University, specializing in modern web technologies and AI solutions. With a strong foundation in the MERN stack and a deep interest in artificial intelligence, I focus on building scalable, user-centric applications.
-
-### What I Do
-
-💻 Developing full-stack web applications with modern technologies\
-📱 Creating cross-platform mobile solutions with React Native\
-✍️ Writing technical articles about software development\
-🤖 Exploring AI/ML technologies and their practical applications\
-🌟 Contributing to open-source projects
-
-### Current Focus
-
-- Advancing my expertise in AI/ML technologies
-- Building scalable web applications with the MERN stack
-- Sharing knowledge through technical writing
-- Exploring cloud-native development solutions
+# 🌟 About Me:
+🚀 Full Stack Developer crafting innovative web solutions\
+🎓 Final year CS student at COMSATS with 3.52 CGPA\
+💻 Specialized in MERN Stack & AI/ML technologies\
+🔧 Building scalable applications and exploring new tech\
+✨ Passionate about turning ideas into impactful solutions
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaiftikhhar) 
