@@ -58,59 +58,13 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-# 🚀 Featured Projects
-
-<div style="display: grid; gap: 1rem;">
-
-<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem; background: linear-gradient(145deg, #ffffff, #f0f0f0); box-shadow: 0 4px 15px rgba(0,0,0,0.1), 0 0 20px rgba(66,153,225,0.1);">
-
-### 🛍️ Sulona E-Commerce Platform
-`#MERN` `#JWT` `#Zustand` `#ResponsiveDesign`
-- 🔐 Secure authentication with JWT & bcrypt
-- 🔄 Modern state management using Context API & Zustand
-- 📱 Fully responsive UI with seamless user experience
-- ⚡ Optimized performance with Vercel deployment
-</div>
-
-<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem; background: linear-gradient(145deg, #ffffff, #f0f0f0); box-shadow: 0 4px 15px rgba(0,0,0,0.1), 0 0 20px rgba(237,100,166,0.1);">
-
-### 🛡️ Phishing Simulation Website
-`#Flask` `#React` `#Twilio` `#Security`
-- 🔒 Cybersecurity awareness platform
-- 📲 Real-time WhatsApp alerts via Twilio
-- 🎯 Interactive phishing simulation scenarios
-- 📊 Comprehensive security analytics
-</div>
-
-<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem; background: linear-gradient(145deg, #ffffff, #f0f0f0); box-shadow: 0 4px 15px rgba(0,0,0,0.1), 0 0 20px rgba(72,187,120,0.1);">
-
-### 📝 Notion Semi-Clone
-`#Flask` `#SQLAlchemy` `#React` `#RealTime`
-- 🔄 Real-time task management system
-- 📊 SQL Alchemy ORM for efficient data handling
-- 🎨 Modern, intuitive user interface
-- 🚀 Optimized for performance
-</div>
-
-<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem; background: linear-gradient(145deg, #ffffff, #f0f0f0); box-shadow: 0 4px 15px rgba(0,0,0,0.1), 0 0 20px rgba(246,173,85,0.1);">
-
-### 🤝 Food Donation App
-`#ReactNative` `#Firebase` `#Location` `#Mobile`
-- 📱 Cross-platform mobile application
-- 🔥 Real-time Firebase database integration
-- 📍 Location-based donation services
-- 🔐 Secure user authentication
-</div>
-
-</div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamzaiftikhhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaiftikhhar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaiftikhhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaiftikhhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamzaiftikhhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hamzaiftikhhar&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ## 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=hamzaiftikhhar&limit=5&theme=radical&combine_all_yearly_contributions=true)
